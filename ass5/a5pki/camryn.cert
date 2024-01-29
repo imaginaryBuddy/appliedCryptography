@@ -1,0 +1,13 @@
+{
+    "body": {
+        "subject identity": "camryn",
+        "public key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFBsUkqbXaG1A/u+fdo3Bjs+c0QOd\njDkzoRihpa5JNDh2EIstlyNUZl1UuWFRabHiZ8aV8/gNScdlxBUNkfeeZQ==\n-----END PUBLIC KEY-----\n",
+        "validity start": "2023-09-01T00:00:00",
+        "validity end": "2023-12-31T23:59:59",
+        "issuer identity": "camryn"
+    },
+    "signature": {
+        "r": 106945497908655141652452634930952608447833051177137259365247826954543538826833,
+        "s": 26993158499609226868744164949721250041463530559371623897157104517844753398553
+    }
+}

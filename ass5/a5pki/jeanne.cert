@@ -1,0 +1,13 @@
+{
+    "body": {
+        "subject identity": "jeanne",
+        "public key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa2KuERUKkLKGaFUhIenqA0+6KMip\nbd6Hnm9oDLBqksNulzNBWcnxRx91004qttVqtNbvS1mOEZn3a7pYE6uXdA==\n-----END PUBLIC KEY-----\n",
+        "validity start": "2023-09-01T00:00:00",
+        "validity end": "2023-12-31T23:59:59",
+        "issuer identity": "dstebila"
+    },
+    "signature": {
+        "r": 36392255290679844791153649913717299246820188654022941141366016219070577559131,
+        "s": 69766800486870731649540502833724179342227640519824461067000679297274591678209
+    }
+}

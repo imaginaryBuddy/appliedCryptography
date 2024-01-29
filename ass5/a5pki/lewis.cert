@@ -1,0 +1,13 @@
+{
+    "body": {
+        "subject identity": "lewis",
+        "public key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/5w+zSyOICdf/g+/kEUs5yg6clQo\nf/UyzDR8pUbX4hxWwohrh0PAKa0pH2eFNyYSXLjti6dimsru+vUshYrjdQ==\n-----END PUBLIC KEY-----\n",
+        "validity start": "2024-01-01T00:00:00",
+        "validity end": "2024-12-31T23:59:59",
+        "issuer identity": "dstebila"
+    },
+    "signature": {
+        "r": 23158650970264973947047510476661209154625856822321866098205596175834162440968,
+        "s": 30712106512186957535555935206646933756450462896914532158391015183398329134341
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "body": {
+        "subject identity": "nate",
+        "public key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoKq4o7/fCKZ68pZYkqBH+cY75x1w\nksGZtgKsM4IHiT+iG2vWd8vdUOgTrhqTu0icOJHXHrj08PmBTwVQr3WiNg==\n-----END PUBLIC KEY-----\n",
+        "validity start": "2023-09-01T00:00:00",
+        "validity end": "2023-12-31T23:59:59",
+        "issuer identity": "dstebila"
+    },
+    "signature": {
+        "r": 50544658334065931974375825351209612772032667083305508734923598355783386703620,
+        "s": 34718996622979523863086562292438453706078823847020567314850989682633044822803
+    }
+}

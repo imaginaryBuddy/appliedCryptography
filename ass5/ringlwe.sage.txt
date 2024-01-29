@@ -1,0 +1,16 @@
+# Our parameters
+n = 3
+q = 113
+
+# Set up the polynomial ring
+R = PolynomialRing(GF(q), 'X')
+X = R.gen()
+S = R.quotient(X^n+1, 'x')
+x = S.gen()
+
+# Generate the public key & secret key
+a = 71 + 33*x + 25*x^2
+s = 1 + x - x^2
+e = -1 + x + 0*x^2
+b = a * s + e
+print(f"b = {b}")

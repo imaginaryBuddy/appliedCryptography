@@ -1,0 +1,13 @@
+{
+    "body": {
+        "subject identity": "cynthia",
+        "public key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6QfgM6SyGX5jQTXmfwkzjY+QSCqa\nw0/Y4wyc0H8SCl4/2nmJqKK0BzvYN3yNSSuHAP4KDWwwFAuXhorgUqO4lQ==\n-----END PUBLIC KEY-----\n",
+        "validity start": "2023-09-01T00:00:00",
+        "validity end": "2023-12-31T23:59:59",
+        "issuer identity": "dstebila"
+    },
+    "signature": {
+        "r": 14320892289358922227500531161651337458606400050182287770909925765004558080780,
+        "s": 34618181432702047602267114023366899686582457999885891063762882025067181944765
+    }
+}
